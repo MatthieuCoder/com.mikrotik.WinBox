@@ -46,5 +46,4 @@ modules:
         x-checker-data:
           type: html
           url: https://mikrotik.com/download
-          url-pattern: "(https://download.mikrotik.com/routeros/winbox/([^/]+)/WinBox_Linux.zip)"
-
+          pattern: "(https://download.mikrotik.com/routeros/winbox/([^/]+)/WinBox_Linux.zip)"
