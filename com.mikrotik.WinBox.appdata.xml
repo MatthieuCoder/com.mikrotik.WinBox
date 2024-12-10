@@ -36,8 +36,11 @@
   <content_rating type="oars-1.1">
   </content_rating>
   <releases>
-    <release version="4.0beta13" date="2024-12-02">
+    <release version="4.0beta14" date="2024-12-10">
       <description></description>
+    </release>
+    <release version="4.0beta13" date="2024-12-02">
+      <description/>
     </release>
     <release version="4.0beta12" date="2024-11-20">
       <description/>
